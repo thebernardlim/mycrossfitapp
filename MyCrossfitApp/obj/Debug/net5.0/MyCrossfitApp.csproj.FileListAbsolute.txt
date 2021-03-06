@@ -9,7 +9,6 @@ D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\bin\Debug\net5.0\ref\MyCrossfitAp
 D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\bin\Debug\net5.0\MyCrossfitApp.pdb
 D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\bin\Debug\net5.0\MyCrossfitApp.Views.dll
 D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\bin\Debug\net5.0\MyCrossfitApp.Views.pdb
-D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\obj\Debug\net5.0\MyCrossfitApp.csprojAssemblyReference.cache
 D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\obj\Debug\net5.0\MyCrossfitApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\obj\Debug\net5.0\MyCrossfitApp.AssemblyInfoInputs.cache
 D:\Projects\Dotnet\MyCrossfitApp\MyCrossfitApp\obj\Debug\net5.0\MyCrossfitApp.AssemblyInfo.cs
